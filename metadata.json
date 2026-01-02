@@ -1,0 +1,5 @@
+{
+  "name": "ModelMinds - Math Competition Analyst",
+  "description": "An advanced AI assistant for mathematical modeling competitions (MCM/ICM, CUMCM). It analyzes problem statements, identifies key variables, and generates multiple distinct solution strategies using the Gemini 3 Pro model.",
+  "requestFramePermissions": []
+}
